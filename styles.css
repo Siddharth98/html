@@ -1,0 +1,419 @@
+li {
+  display: inline;
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  padding-left: 37px;
+  font-size: small;
+}
+progress[value] {
+  -webkit-appearance: none;
+   appearance: none;
+  width: 100%;
+  height: 3px;
+}
+progress[value]::-webkit-progress-bar {
+  background-color: #eee;
+}
+progress[value]::-webkit-progress-value {
+  background-color: black;
+  }
+.main-header .logo,.main-header .portfolio ,.progress .bar{
+    width: 20%;
+    text-align:left;
+    float: left;
+}
+.team .bar,.pricing .bar {
+  width:15%;
+  height:300px;
+  text-align: center;
+  float:left;
+}
+.main-header .logo,.main-header .portfolio {
+  margin-left: 20px;
+}
+.main-header .header-right {
+  width: 50%;
+  text-align: right;
+  float: right;
+  margin-right: 49px;
+  padding-top: 6px;
+}
+.main-header {
+  width:100%;
+  background-color: white;
+  display:inline-block;
+  height:57px;
+}
+body,figure,.pro p {
+  margin: 0; 
+}
+footer {
+  text-align:center;
+  background-color: #4c4c4c; 
+  height: 638px;
+  margin:0;
+}
+.expertin{
+    display: inline-block;
+}
+
+.left,.heading {
+  width: 30%; 
+  padding-top: 40px;
+}
+.right {
+  float: right;
+  width: 50%;
+  text-align: left;
+  padding-right:50px;
+  margin-right:20px;
+  padding-left:30px;
+  height: 170px;
+  padding-top: 40px;
+}
+.pro {
+  width:50%;
+  float: right;
+}
+.left,.right {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.left {
+  float: left;
+  height:170px;
+}
+.right p ,.pro p,.eright p,.magic p{
+    font-weight: lighter;
+    font-size: 20;
+    /*color: #D0D0D0;*/
+    color: #A8A8A8;
+}
+.aboutus {
+  background-color: #F8F8FF;
+  width:100%;
+  height:400px;
+}
+.magic {
+    background-color: #F8F8FF;
+  width:100%;
+    height: 700px;
+}
+.about,.heading h1,.magich h1 ,.portfolio h1{
+  font-weight: normal;
+  font-size: 70px;
+  margin-top: 10px;
+}
+.expertise {
+  margin-top:70px;
+  margin-bottom: 120px;
+}
+.heading,.progress .bar,.left,.portfolio{
+  padding-left: 170px;
+}
+.pro {
+  float: right;
+  width: 50%;
+  text-align: left;
+  padding-right:50px;
+  margin-right:20px;
+  padding-left:30px;
+}
+span {
+  font-size: smaller;
+}
+.expleft {
+  float:left;
+  width: 30%;
+  margin-top: 40px;
+}
+.exp {
+  float: left;
+  width:25%;
+    margin-top:120px;
+    text-align: center;
+}
+.exp h1 {
+  font-size: 50px;
+  padding-right: 13px; 
+  font-weight: normal;
+  margin-bottom: 0; 
+}
+.exp p {
+  margin-top: 0;
+  color: blue;
+}
+.eleft
+{
+  float:left;
+  width:20%;
+  padding-left: 20px;
+}
+.eright {
+  float:right;
+  width:70%;
+}
+.eright h5 {
+    margin: 0;
+    font-weight: normal;
+}
+.eright p{
+  padding-right: 20px;
+}
+.expertin {
+  padding-left: 150px;
+  margin-top:40px;
+}
+figure img,#im{
+  width:100%;
+  height:600px;
+}
+.img {
+  width:50%;
+  float:left;
+}
+.magich {
+  width:50%;
+  float:right;
+}
+.img img {
+  width: 100%;
+  height:700px;
+}
+.cent {
+  padding-left: 140px;
+  padding-right: 140px;
+}
+.cent h1 {
+  padding-top: 80px;
+}
+.extra {
+  margin-top: 80px;
+    height:200px;
+}
+.portfolio h1 {
+  margin: 0;
+}
+.marg {
+  margin-top:30px;
+  padding-right:80px;
+}
+.percent {
+  float:right;
+}
+.zero {
+  padding-right: 21px; 
+}
+.zeroo {
+  padding-right: 57px;
+}
+.five {
+  padding-right: 38px;
+}
+.progressspace {
+  padding-top: 17px;
+}
+.view  {
+  width:100%;
+  text-align: center;
+  height: 60px;
+    background-color: #F8F8FF;
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.view a {
+  text-decoration:none;
+  font-size: 17px;
+  color:black;
+}
+.article {
+    height: 300px;
+  text-align:center; 
+  padding-top: 100px;
+    width: 100%;
+}
+.article #article {
+  font-size: 20px;
+}
+.article .name {
+  color: #A8A8A8;
+  padding-top: 30px;
+  font-size:16px;
+}
+.numbers {
+  height: 400px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+.numbers p {
+  color: #7FFFD4;
+}
+#exp {
+  padding-right: 38px;
+}
+.team ,.price,.pplan{
+  width:100%;
+  height:700px;
+}
+.basic {
+  text-align: left;
+  padding-left: 38px;
+}
+.plan {
+  background-color: #F8F8FF;
+}
+.team .bar {
+  background-color: white;
+  width:29%;
+    
+  height:400px;
+}
+.port {
+   float: left;
+   margin-top: 120px;
+   width:40%;
+}
+.map {
+  float:right;
+}
+.comm {
+  height:700px;
+  width: 100%;
+}
+.form {
+  padding-left: 170px;
+  padding-top: 90px;
+}
+.text input {
+  border:none;
+  border-bottom: 2px solid black;
+  padding-top: 10px;
+  width:100%;
+}
+.text input[placeholder] {
+  padding-bottom: 10px;
+}
+.form textarea {
+  border:none;
+  border-bottom: 2px solid black;
+  width:100%;
+  padding-top: 20px;
+}
+.button {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+.button input {
+  color: white;
+  background-color: black;
+  border:none;
+}
+.social ,address{
+  text-decoration: none;
+  color: white;
+}
+address {
+  padding-top: 32px;
+  font-style: normal;
+}
+#social {
+  padding-top: 0;
+  margin:0;
+  font-size: 40px;
+}
+.sign {
+  margin:0;
+}
+.copywright {
+  width: 100%;
+  background-color: #323232;
+}
+.copywright p {
+  color: white;
+  height: 50px;
+  margin-top: 15px;
+  padding-top: 30px;
+  margin-bottom: 0;
+  font-size: 13px;
+}
+.arrow {
+  margin-top: 55px;
+  margin-bottom: 0;
+  height:50px;
+}
+.fun {
+  font-size: 17px;
+}
+#fun {
+  font-size: 30px;
+}
+.footer-logo {
+  height: 300px;
+  width: 6%;
+  text-align:right; 
+  margin-left: 54em;
+}
+.footer-logo img {
+    width: 46%; 
+    margin-right: 32px;
+}
+.plan .bar h1 {
+  font-size: 60px;
+  font-weight: normal;
+    margin-top: 0;
+}
+.plan .bar span {
+    font-size: 22px;
+    font-weight: normal;
+}
+.doll {
+      vertical-align: 25px;
+}
+.bar img {
+  width:95%;
+  height:350px;
+}
+.line {
+  font-size: 70px;
+  border:none;
+  border-bottom: solid;
+  border-bottom-color: #FFA500;
+  border-width: 4px;
+  border-radius: 2px;
+  display: inline-block;
+  height: 95px;
+}
+.let{
+  height: 164px;
+}
+.image {
+  margin-top: 166px;
+}
+.teamart {
+  margin-left:159px;
+  width:90%;
+  height:434px; 
+}
+.pplan .bar {
+  background-color: white;
+  width:18%;
+  margin-left: 180px;
+  text-align: center;
+  float:left;
+  background-color: white;
+  height:400px;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+}
